@@ -11,4 +11,25 @@
       
       
 
-## 
+## Please read articale securitymindset.pdf and powerpoint lecture on CIA triad and then conduct a security assessment on websites or pocedures of your interest.  
+
+ 1. Please write a short description about the system you evaluate.  If it is a website, please provide a link to the website. 
+ 2. Please rate the confidentiality of the system as low, moderate or high.  Explain.
+     * Who can access the data?
+     * What can they access?
+     * When/How can they access?
+     * Are there any confidentiality failure? 
+ 3. Please rate the integrity of the system as low, moderate or high.  Explain.
+     * Who can modify the data?
+     * What can they modify?
+     * How can they modify?
+     * Are there any integrity failure? 
+
+ 4. Please rate the availability of the system as low, moderate or high.  Explain.
+     * Is the information available to intended user?
+     * Is there a timely response?
+     * Are there faulty tolerance?
+     * Are there any availability failure? 
+  
+ 5. If there are any security failure, please propose a solution to address these vulnerabilities.  
+
