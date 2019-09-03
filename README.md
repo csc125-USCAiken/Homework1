@@ -18,18 +18,18 @@
      * Who can access the data?
      * What can they access?
      * When/How can they access?
-     * Are there any confidentiality failure? 
+     * Are there any confidentiality failures? 
  3. Please rate the integrity of the system as low, moderate or high.  Explain.
      * Who can modify the data?
      * What can they modify?
      * How can they modify?
-     * Are there any integrity failure? 
+     * Are there any integrity failures? 
 
  4. Please rate the availability of the system as low, moderate or high.  Explain.
      * Is the information available to intended user?
      * Is there a timely response?
      * Are there faulty tolerance?
-     * Are there any availability failure? 
+     * Are there any availability failures? 
   
- 5. If there are any security failure, please propose a solution to address these vulnerabilities.  
+ 5. If there are any security failures, please propose a solution to address these vulnerabilities.  
 
